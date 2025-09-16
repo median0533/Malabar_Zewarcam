@@ -1,12 +1,12 @@
 {
   "latestVersion": "1.0.2",
-  "mandatory": true,
+  "mandatory": false,
   "versions": [
     {
       "version": "1.0.2",
       "downloadUrl": "https://github.com/median0533/Malabar_Zewarcam/releases/download/v1.0.2/app-arm64-v8a-release.apk",
       "changelog": "Share functionality added in both gallary and edit page",
-      "mandatory": true
+      "mandatory": false
     },
     {
       "version": "1.0.1",
