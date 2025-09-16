@@ -1,15 +1,17 @@
 {
   "latestVersion": "1.0.1",
+  "mandatory": true,
   "versions": [
     {
       "version": "1.0.1",
-      "downloadUrl": "https://github.com/youruser/yourrepo/releases/download/v1.1.0/app-release.apk",
-      "changelog": "🛠 Minor bug fixes\n⚡ Faster loading"
+      "downloadUrl": "https://github.com/median0533/Malabar_Zewarcam/releases/download/v1.3.0/app-release.apk",
+      "changelog": "✨ New features\n- Dark mode\n- Performance boost",
+      "mandatory": true
     },
     {
       "version": "1.0.0",
-      "downloadUrl": "https://github.com/youruser/yourrepo/releases/download/v1.0.0/app-release.apk",
-      "changelog": "🚀 Initial release"
+      "downloadUrl": "https://github.com/median0533/Malabar_Zewarcam/releases/download/v1.2.0/app-release.apk",
+      "changelog": "📸 Camera improvements"
     }
   ]
 }
